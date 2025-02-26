@@ -11,11 +11,11 @@
         <exec.mainClass>org.mephi.b23902.groupc.noheretics.NoHeretics</exec.mainClass>
     </properties>
     <dependencies>
-    <dependency>
-        <groupId>com.github.javafaker</groupId>
-        <artifactId>javafaker</artifactId>
-        <version>1.0.2</version>
-    </dependency>
+        <dependency>
+            <groupId>com.github.javafaker</groupId>
+            <artifactId>javafaker</artifactId>
+            <version>1.0.2</version>
+        </dependency>
     </dependencies>
 
 </project>
